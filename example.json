@@ -1,0 +1,25 @@
+{
+  "ghosties": [
+   {
+    "versionNumber" : 1,
+    "buffs" : "ghosties ghost more",
+    "nerfs" : "ghosties sometimes ghost less :(",
+    "patches" : "so many,,,",
+    "visual" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7wAUX8PcZAwf7lfWr6rAImE_NJyo6W6yFfLX2k2PEGDAToMXPQ"
+   },
+   {
+    "versionNumber" : 2,
+    "buffs" : "ghosties ghost even MORE",
+    "nerfs" : "ghosties sometimes ghost less :( (but a lot less now, for more ghosting capabilities >:)",
+    "patches" : "so many,,,,,",
+    "visual" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7wAUX8PcZAwf7lfWr6rAImE_NJyo6W6yFfLX2k2PEGDAToMXPQ"
+   },
+   {
+    "versionNumber" : 3,
+    "buffs" : "ghosties ghost WAY MOREEEEEE",
+    "nerfs" : "ghosties dont ghost less that much",
+    "patches" : "so many,,,,,,,",
+    "visual" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7wAUX8PcZAwf7lfWr6rAImE_NJyo6W6yFfLX2k2PEGDAToMXPQ"
+   }
+  ]
+}
